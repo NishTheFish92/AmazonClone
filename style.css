@@ -10,7 +10,7 @@
     color: white;
     display: flex;
     align-items: center;
-    /*justify-content: space-evenly*/;
+    justify-content: space-evenly;
 
 }
 
@@ -61,10 +61,14 @@
 
 .nav-search{
     display: flex;
-    width: 620px;
+    width: 800px;
     height: 40px;
     border-radius: 4px;
     justify-content: space-evenly;
+}
+
+.nav-search:hover{
+    border: 2px solid #F3A847;
 }
 
 .search-select{
@@ -116,5 +120,35 @@
     background-color: #0f1111;
     color: white;
     border: none;
+    font-size: 0.85rem;
+    font-weight: 700;
 }
 
+/*Box 5 & 6*/
+
+.sign1{
+    font-size: 0.7rem;
+    margin-left: 0.35rem;
+}
+
+.sign2{
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: white;
+    background-color: #0f1111;
+    border: none;
+}
+
+span{
+    font-size: 0.7rem;
+}
+
+/*box 7*/
+.nav-cart{
+    font-weight: 700;
+    font-size: 0.85rem;
+}
+
+.nav-cart i{
+    font-size: 30px;
+}
