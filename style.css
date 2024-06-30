@@ -10,7 +10,7 @@
     color: white;
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    /*justify-content: space-evenly*/;
 
 }
 
@@ -60,7 +60,6 @@
 /**Box 3**/
 
 .nav-search{
-    background-color: pink;
     display: flex;
     width: 620px;
     height: 40px;
@@ -94,3 +93,28 @@
     font-size: 1.25rem;
     background-color: #F3A847;
 }
+
+/*Box 4*/
+.nav-country{
+    width: 73.78px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.city-icon{
+    background-image: url(./Resources/american_flag.png);
+    width: 21.6px;
+    height: 16.2px;
+    background-size: cover;
+    background-image: url(./Resources/american_flag.png);
+    background-size: cover;
+}
+
+.country-select{
+    background-color: #0f1111;
+    color: white;
+    border: none;
+}
+
