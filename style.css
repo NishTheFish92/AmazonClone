@@ -149,3 +149,29 @@ span{
 .nav-cart i{
     font-size: 22px;
 }
+
+/* Panel */
+
+.panel{
+    height: 39px;
+    background-color: #232F3E;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+}
+
+.panel-options{
+    width: 70%;
+    font-size: 0.85rem;
+}
+
+.panel-options p{
+    display: inline;
+    margin-left: 10px;
+}
+
+.panel-shopdeal{
+    font-size: 0.9rem;
+    font-weight: 700;
+}
