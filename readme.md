@@ -6,3 +6,7 @@ A  basic clone of the Amazon website's homepage layout and styling, built using 
 ## How to view the clone
 - Clone this repo to your local machine using git
 - Open ```index.html```
+
+
+## Preview
+![image](https://github.com/user-attachments/assets/34c7cc89-5307-4c41-882b-9c77126efe63)
