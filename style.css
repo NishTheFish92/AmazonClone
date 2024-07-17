@@ -175,3 +175,47 @@ span{
     font-size: 0.9rem;
     font-weight: 700;
 }
+
+.hero-section{
+    height: 400px;
+    background-image: url(./Resources/homeimage.jpg);
+    background-size: cover;
+}
+
+/* Shop section */
+
+.shop-section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #E3E6E6;
+}
+
+
+.box{
+    height: 400px;
+    width: 24%;
+    background-color: white;
+    padding: 20px 0px 15px;
+    margin-top: 15px;
+    
+    
+}
+
+.box-img{
+    height: 300px;
+    background-size: cover;
+    margin-top: 15px;
+    margin-bottom: 44px;
+
+}
+
+.box-content{
+    margin-left: 1.25rem;
+    margin-right: 1.25rem;
+}
+
+.box-content p{
+    color: #0B778A;
+}
+
