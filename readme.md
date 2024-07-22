@@ -4,7 +4,7 @@ A  basic clone of the Amazon website's homepage layout and styling, built using 
 **Please note:** This is a basic visual clone and does not include any e-commerce functionality.
 
 ## How to view the clone
-- Clone this repo to your local machine using git
+- Clone this repo to your local machine using ```git clone [github web url]```
 - Open ```index.html```
 
 
