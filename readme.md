@@ -10,3 +10,7 @@ A  basic clone of the Amazon website's homepage layout and styling, built using 
 
 ## Preview
 ![image](https://github.com/user-attachments/assets/34c7cc89-5307-4c41-882b-9c77126efe63)
+
+## References
+
+[Apna College - Building AMAZON Clone for Beginners | Project using HTML & CSS](https://www.youtube.com/watch?v=nGhKIC_7Mkk)
